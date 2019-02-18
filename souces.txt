@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=qTdwUpQRptc
+
+https://ionicframework.com/docs/native/insomnia/
+https://ionicframework.com/docs/components
+https://ionicframework.com/docs/api/datetime
+
+https://ionicframework.com/docs/api/fab-button
